@@ -3,6 +3,7 @@
 This repository implements the **Binomial Option Pricing Model** to compute the theoretical prices of European call and put options. The binomial model uses a discrete-time framework for valuing options by building a price tree to evaluate possible future asset prices.
 
 ## 🚀 Features
+- https://binomialoptionsalgorithm.streamlit.app/
 - **Option Pricing**: Computes prices for European call and put options using the binomial tree approach.
 - **Greeks Calculation**: Calculates option sensitivities, including Delta and Gamma.
 - **Customizable Parameters**: Easily modify key inputs like strike price, volatility, interest rate, and number of steps.
